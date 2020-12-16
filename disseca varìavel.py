@@ -1,0 +1,10 @@
+# DISSECANDO UMA VARÍAVEL
+a = input('Digite algo: ')
+print('O tipo primitivo é: ',type(a))
+print('Só tem espaços? ',a.isspace())
+print('É um número? ',a.isnumeric())
+print('É alfabético? ',a.isalpha())
+print('É alfanúmerico? ',a.isalnum())
+print('Esta em maiúscula? ',a.isupper())
+print('Ésta em minúscula? ',a.islower())
+print('Esta capitalizada? ',a.istitle())
