@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="527684af-bd1c-4318-ace2-dbdabc81e2b3" name="Default Changelist" comment="" />
+    <list default="true" id="527684af-bd1c-4318-ace2-dbdabc81e2b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1djd6Rv5LhSiLDHuGJVYdRWanka" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,10 +28,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Indices vetores" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.calculo de hipotenusa a partir dos catetos">
+  <component name="RunManager" selected="Python.11111">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -47,6 +54,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="11111" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="cursoemvideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Calculo de valor de aluguel de carro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,27 +88,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculo de valor de aluguel de carro.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="calculo de hipotenusa a partir dos catetos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cursoemvideo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculo de hipotenusa a partir dos catetos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,9 +138,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.11111" />
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.Calculo de valor de aluguel de carro" />
+      <item itemvalue="Python.quebrando um número" />
+      <item itemvalue="Python.ssds" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calculo de hipotenusa a partir dos catetos" />
         <item itemvalue="Python.quebrando um número" />
         <item itemvalue="Python.1" />
         <item itemvalue="Python.ssds" />
@@ -155,45 +168,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595121781087">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619300488320">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595121781087" />
-    <state width="1344" height="296" key="GridCell.Tab.0.bottom" timestamp="1594608153359">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1619300488320" />
+    <state width="1344" height="296" key="GridCell.Tab.0.bottom" timestamp="1619301413589">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="296" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594608153359" />
-    <state width="1344" height="296" key="GridCell.Tab.0.center" timestamp="1594608153359">
+    <state width="1344" height="296" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619301413588" />
+    <state width="1344" height="296" key="GridCell.Tab.0.center" timestamp="1619301413588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="296" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594608153359" />
-    <state width="1344" height="296" key="GridCell.Tab.0.left" timestamp="1594608153359">
+    <state width="1344" height="296" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619301413588" />
+    <state width="1344" height="296" key="GridCell.Tab.0.left" timestamp="1619301413587">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="296" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594608153359" />
-    <state width="1344" height="296" key="GridCell.Tab.0.right" timestamp="1594608153359">
+    <state width="1344" height="296" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619301413587" />
+    <state width="1344" height="296" key="GridCell.Tab.0.right" timestamp="1619301413588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="296" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594608153359" />
-    <state width="1344" height="208" key="GridCell.Tab.1.bottom" timestamp="1593132506836">
+    <state width="1344" height="296" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619301413588" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1619300859774">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="208" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593132506836" />
-    <state width="1344" height="208" key="GridCell.Tab.1.center" timestamp="1593132506835">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1344" height="208" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593132506835" />
-    <state width="1344" height="208" key="GridCell.Tab.1.left" timestamp="1593132506834">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1344" height="208" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593132506834" />
-    <state width="1344" height="208" key="GridCell.Tab.1.right" timestamp="1593132506836">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1344" height="208" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593132506836" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1594606447910">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594606447910" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1619300859774" />
   </component>
 </project>
